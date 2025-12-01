@@ -89,6 +89,8 @@ SAOJ to nie zamknięcie pewnego etapu, lecz otwarcie nowego rozdziału – Archi
 
 W ramach projektu powstały 4 filmy o następującej tematyce:
 
+![SAOJ edukacja online](/images/screenshot-2025-12-01-at-13.54.27.png "SAOJ edukacja online")
+
 * O dzieciństwie na Jazdowie i o tym dlaczego tworzymy Społeczne Archiwum Osiedla Jazdów - [opowiada Andrzej Górz](https://www.facebook.com/reel/1996224564557484).
 * [ZDROWE DOMY. Czym charakteryzują się domki fińskie?](https://www.facebook.com/reel/1160294259545845)
 * [JAZDOWSKIE GNIAZDA – o układzie urbanistycznym Osiedla](https://www.facebook.com/reel/1531929544498209)
