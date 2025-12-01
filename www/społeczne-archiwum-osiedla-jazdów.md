@@ -53,9 +53,15 @@ Każdy z 8 spacerów prowadziła inna osoba – mieszkanka lub mieszkaniec, bada
 
 ![Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska](/images/saoj-oprowadzanie-dsc04015-1-large.jpeg "Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska")
 
+Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska
+
 ![Performatywne oprowadzanie z Wojciechem Matejko](/images/saoj-oprowadzanie-dsc05226-large.jpeg "Performatywne oprowadzanie z Wojciechem Matejko")
 
+Performatywne oprowadzanie z Wojciechem Matejko
+
 ![Osiedle pionierów odbudowy / Grzegorz Piątek](/images/saoj-oprowadzanie-cf79a5c1-ea0a-4a76-bc17-4fb3d57c9b9b.jpg "Osiedle pionierów odbudowy / Grzegorz Piątek")
+
+Osiedle pionierów odbudowy / Grzegorz Piątek
 
 ## ZBLIŻ SIĘ – wystawa plenerowa w oknach domków fińskich
 
@@ -67,15 +73,9 @@ Do cytatów dołączone były kody QR, które umożliwiały wejście na stronę 
 
 ![SAOJ wystawa 1](/images/saoj-wystawa-66591892-bcd7-4d0e-82e6-fccb5a114258.jpg "SAOJ wystawa 1")
 
-
-
 ![SAOJ wystawa 2](/images/saoj-wystawa-6b6942c0-38d9-4dce-b85c-f1f6c056d720.jpg "SAOJ wystawa 2")
 
-
-
 ![SAOJ wystawa 3](/images/saoj-wystawa-dsc04057-2-large.jpeg "SAOJ wystawa 3")
-
-
 
 ## ARCHIWUM, KTÓRE ŻYJE – MIĘDZY DOKUMENTACJĄ, A INTERWENCJĄ.
 
@@ -156,11 +156,11 @@ Stowarzyszenie Mieszkańców Domków Fińskich Jazdów
 
 **Dziękujemy osobom i organizacjom zaangażowanym w organizację obchodów 80. urodzin Osiedla Jazdów oraz grudniowych wydarzeń:**
 
-* Stowarzyszenie Akademickie Wydziały Architektury Politechniki Warszawskiej (Otwarta Pracownia Jazdów)
-* Stowarzyszenie Dom Tańca (Ambasada Muzyki Tradycyjnej)
-* Fundacja Pracownia Dóbr Wspólnych (Solatorium i Motyka i Słońce)
-* Projekt Polska (państwomiasto)
-* Miejskie Pszczoły
-* Fundacja Numinosum (Chata Numinosum)
-* Autonomiczna Przestrzeń Edukacyjna
+* Stowarzyszenie Akademickie Wydziały Architektury Politechniki Warszawskiej ([Otwarta Pracownia Jazdów](https://facebook.com/OtwartaPracowniaJazdow/))
+* [Stowarzyszenie Dom Tańca](https://domtanca.art.pl/) ([Ambasada Muzyki Tradycyjnej](https://www.facebook.com/ambasadamuzykitradycyjnej/))
+* Fundacja Pracownia Dóbr Wspólnych ([Solatorium](https://www.facebook.com/solatorium) i [Motyka i Słońce](https://www.facebook.com/motykaislonce))
+* Projekt Polska ([państwomiasto](https://www.facebook.com/panstwomiasto))
+* [Miejskie Pszczoły](https://www.facebook.com/miejskiepszczoly)
+* [Fundacja Numinosum](https://numinosum.pl/) ([Chata Numinosum](https://www.facebook.com/ChataNuminosum))
+* [Autonomiczna Przestrzeń Edukacyjna](https://ape.edu.pl/)
 * Maria Pieńkowska i Marcin Łukasik oraz mieszkanki i mieszkańcy Osiedla Jazdów
