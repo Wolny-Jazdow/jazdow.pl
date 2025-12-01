@@ -53,12 +53,14 @@ Każdy z 8 spacerów prowadziła inna osoba – mieszkanka lub mieszkaniec, bada
 
 ZDJECIA
 
-
-
 +--+--+--+
-|  |  |  |
+| 1 | 2 | 
+
+![SAOJ oprowadzanie 3](/images/saoj-oprowadzanie-cf79a5c1-ea0a-4a76-bc17-4fb3d57c9b9b.jpg "SAOJ oprowadzanie 3")
+
+\|
 +--+--+--+
-|  |  |  |
+| Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska | Performatywne oprowadzanie z Wojciechem Matejko | Osiedle pionierów odbudowy / Grzegorz Piątek |
 +--+--+--+
 
 
@@ -67,7 +69,9 @@ Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska
 
 Performatywne oprowadzanie z Wojciechem Matejko
 
-Osiedle pionierów odbudowy / Grzegorz Piątek
+Osiedle pionierów odbudowy / Grzegorz Piątek |
+
+
 
 ## ZBLIŻ SIĘ – wystawa plenerowa w oknach domków fińskich
 
