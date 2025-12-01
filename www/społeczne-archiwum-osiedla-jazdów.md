@@ -53,6 +53,16 @@ Każdy z 8 spacerów prowadziła inna osoba – mieszkanka lub mieszkaniec, bada
 
 ZDJECIA
 
+
+
++--+--+--+
+|  |  |  |
++--+--+--+
+|  |  |  |
++--+--+--+
+
+
+
 Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska
 
 Performatywne oprowadzanie z Wojciechem Matejko
