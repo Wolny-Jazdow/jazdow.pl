@@ -4,6 +4,8 @@ title: Społeczne Archiwum Osiedla Jazdów
 tldr: Społeczne Archiwum Osiedla Jazdów 2025 - podsumowanie projektu
 generic: true
 ---
+![SAOJ baner górny](/images/saoj-baner-1000052820.png "SAOJ baner górny")
+
 Społeczne Archiwum Osiedla Jazdów (SAOJ) to długofalowy projekt zainaugurowany z okazji 80-lecia Osiedla Jazdów i 80-lecia Odbudowy Warszawy. Koncentruje się na stworzeniu i upowszechnieniu „Społecznego Archiwum Osiedla Jazdów” dostępnego na portalu zbioryspoleczne.pl.
 
 Badając i archiwizując historię Jazdowa możemy lepiej rozumieć tożsamość tego miejsca – jego społeczne, emocjonalne, przyrodnicze i architektoniczne warstwy. To z kolei pozwala nam rozwijać to miejsce w sposób świadomy i pełen szacunku dla historii tego miejsca. Wierzymy, że dziedzictwo kulturowe Jazdowa to fundamenty, na których możemy mądrze wspierać przyszłość tego miejsca.
