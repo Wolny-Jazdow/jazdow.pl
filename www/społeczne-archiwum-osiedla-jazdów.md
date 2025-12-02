@@ -104,31 +104,37 @@ Dalszym elementem upowszechnienia Społecznego Archiwum Osiedla Jazdów jest wiz
 
 ### Gabriela Stępniak
 
+![Gabriela Stępniak](/images/dsc04142-large.jpeg "Gabriela Stępniak")
+
 Historyczka sztuki i animatorka kultury. Koordynatorka Społecznego Archiwum Osiedla Jazdów i koordynatorka wolontariatu Wolnego Jazdowa. Członkini zarządu ZS POJ, animatorka osiedlowej społeczności. Stażystka Centrum Archiwistyki Społecznej, absolwentka I pilotażowej edycji "Szkolenia na start! Stwórz archiwum społeczne" organizowanego przez CAS; absolwentka treningu ULEX CEE (Central and Eastern Europe) Resilient Organizations w Kunbábony na Węgrzech; uczestniczka dwóch edycji międzynarodowej humanistycznej szkoły letniej Josefov Summer School (2022 i 2023).
 
 ### Dominika Dzieniszewska
+
+![Dominika Dzieniszewska](/images/dsc04285-large.jpeg "Dominika Dzieniszewska")
 
 Magistra sztuki, animatorka kultury, edukatorka. Współpracuje z instytucjami kultury i organizacjami pozarządowymi, gdzie tworzy i realizuje projekty w zakresie edukacji ekologicznej i partycypacji społecznej. Trzykrotna laureatka Warszawskiej Nagrody Edukacji Kulturalnej. Przez 9 lat pracowała w Służewskim Domu Kultury rozwijając dział edukacji kulturalnej i ekologicznej. Dziś członkini zarządu Wolny Jazdów,, zaangażowana w zakładanie Społecznego Archiwum Osiedla Jazdów. Związana także ze Staromiejskim Domem Kultury, w którym rozwija i koordynuje Fundusz Edukacji Ekologicznej w Warszawie oraz działania edukacyjne dla kadr kultury. Obecnie w trakcie studiów zielarskich i fitoterapii naturalnych. W wolnych chwilach robi sito.
 
 ### Andrzej Górz
 
+![Andrzej Górz](/images/img_0555-large.jpeg "Andrzej Górz")
+
 Urodzony i wychowany w rdzennej wspólnocie mieszkańców Osiedla Jazdów. Podróżnik w czasie niegdyś zaangażowany w obronę osiedla domków fińskich na warszawskim Jazdowie, współtwórca Otwartego Jazdowa. Dzikość przyrody i neuroróżnorodność istot ludzkich traktuje jako formę nadchodzącej normalności. Jest facylitatorem, futurystą i edukatorem. Ma wieloletnie doświadczenie w działaniach w organizacjach pozarządowych, grupach nieformalnych i ruchach miejskich, a także instytucjach publicznych i na rzecz samorządu lokalnego.
 
-**Organizator: Związek Stowarzyszeń Wolny Jazdów**
+## **Organizator: Związek Stowarzyszeń Wolny Jazdów**
 
-**Projekt współfinansowało Biuro Kultury m. st. Warszawa**
+### **Projekt współfinansowało Biuro Kultury m. st. Warszawa**
 
-**Autorki i autorzy projektu:**
+### **Autorki i autorzy projektu:**
 
 * Gabriela Stępniak
 * Dominika Dzieniszewska
 * Andrzej Górz
 
-**Identyfikacja wizualna projektu:**
+### **Identyfikacja wizualna projektu:**
 
 [Bartosz Zieliński / @bartol.yes](https://www.instagram.com/bartol.yes)
 
-**Partnerzy merytoryczni:**
+### **Partnerzy merytoryczni:**
 
 [Centrum Archiwistyki Społecznej](https://cas.org.pl/) - [zbioryspoleczne.pl](https://zbioryspoleczne.pl)
 
@@ -136,13 +142,13 @@ Urodzony i wychowany w rdzennej wspólnocie mieszkańców Osiedla Jazdów. Podr�
 
 Stowarzyszenie Mieszkańców Domków Fińskich Jazdów
 
-**Patroni honorowi:**
+### **Patroni honorowi:**
 
 **Minister Kultury i Dziedzictwa Narodowego**
 
 **Ambasada Finlandii w Polsce**
 
-**Media o projekcie / patroni medialni:**
+### **Media o projekcie / patroni medialni:**
 
 [ngo.pl](https://ngo.pl) / [Coraz więcej społecznych archiwów w Polsce. Inaguracja Społecznego Archiwum Osiedla Jazdów”](https://publicystyka.ngo.pl/powstaje-spoleczne-archiwum-osiedla-jazdow-coraz-wiecej-spolecznych-archiwow-w-polsce)
 
