@@ -45,7 +45,6 @@ Przede wszystkim głównym bohaterkom i bohaterom naszego Projektu – mieszkank
 * Joanna Jaszuńska
 * Zdzisiek Deptuła
 * Stefan i Antonina Szczerbińscy
-* Marcin Niedzielski
 
 ## MNOGOŚĆ PERSPEKTYW I DOSTĘPNOŚĆ – OPROWADZANIA PO OSIEDLU JAZDÓW
 
