@@ -35,9 +35,15 @@ Dołącz do społeczności Patronite i korzystaj z przestrzeni domku fińskiego 
 
 [paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4](https://www.paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4)
 
+## 1,5% podatku
+
+Partnerstwo Otwarty Jazdów posiada status Organizacji Pożytku Publicznego. Możesz przekazać nam 1,5% swojego podatku dochodowego wpisując nasz numer KRS w rozliczeniu rocznym PIT.
+
+**KRS: 0000737179**
+
 ## Dane adresowe
 
-Więcej informacji pod adresem: **wolny@jazdow.pl**
+Więcej informacji pod adresem: **otwarty@jazdow.pl**
 
 **Partnerstwo Otwarty Jazdów**\
 **Związek Stowarzyszeń**\
@@ -47,3 +53,7 @@ ul. Jazdów 10/5\
 KRS: 0000737179\
 REGON: 380558414\
 NIP: 7010827495
+
+## e-Doręczenia
+
+**AE:PL-86024-98343-ERIGG-14**
