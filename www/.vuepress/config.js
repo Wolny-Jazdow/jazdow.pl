@@ -1,9 +1,9 @@
 const themeConfig = require('./themeConfig')
 
 module.exports = {
-	title: 'Otwarty Jazdów',
-	
-	description: 'Partnerstwo Otwarty Jazdów',
+	title: 'Wolny Jazdów',
+
+	description: 'Partnerstwo Wolny Jazdów',
 	
 	themeConfig: themeConfig,
 
