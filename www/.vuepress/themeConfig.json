@@ -2,12 +2,12 @@
   "mainMenu": {
     "pl": [
       {
-        "href": "/wesprzyj/",
-        "title": "wesprzyj"
+        "href": "/co-robimy/",
+        "title": "Co robimy?"
       },
       {
-        "href": "/archiwum/",
-        "title": "archiwum"
+        "href": "/wesprzyj/",
+        "title": "wesprzyj"
       },
       {
         "href": "/mapa/",
@@ -16,14 +16,6 @@
       {
         "href": "/historia/",
         "title": "historia"
-      },
-      {
-        "href": "/wspolzarzadzanie/",
-        "title": "współzarządzanie"
-      },
-      {
-        "href": "/partnerstwo/",
-        "title": "partnerstwo"
       },
       {
         "href": "/pytania/",
