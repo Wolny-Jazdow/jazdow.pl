@@ -4,8 +4,8 @@ title: Co robimy?
 tldr: Co robimy? Czym się zajmujemy?
 generic: true
 ---
-1. Oprowadzania po Osiedlu Jazdów
-2. Czytelnia Klimatyczna
+1. [Oprowadzania po Osiedlu Jazdów](#oprowadzania-po-osiedlu-jazdow)
+2. [Czytelnia Klimatyczna](#czytelnia-klimatyczna)
 3. [Kulturalne Centrum Samopomocy](https://www.kcs.info.pl/)
 4. [Społeczne Archiwum Osiedla Jazdów](/archiwum)
 5. [Model współzarządzania](/wspolzarzadzanie)
