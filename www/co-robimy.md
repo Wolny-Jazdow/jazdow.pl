@@ -11,8 +11,6 @@ generic: true
 5. [Model współzarządzania](/wspolzarzadzanie)
 6. [Partnerstwo](/partnerstwo)
 
-
-
 # Oprowadzania po Osiedlu Jazdów
 
 Zapraszamy na nasze flagowe wydarzenie – cykliczne, autorskie spacer po Osiedlu Jazdów. Jako organizacja od lat związana z tym miejscem, otwieramy przed Wami bramę do Wolnego Jazdowa - niepodległej koloni domków fińskich, miejsca wolność i twórczej wspólnoty ochronione i rozwijane od 2011 roku przez organizacje pozarządowe i społeczność tego miejsca.
@@ -20,6 +18,8 @@ Zapraszamy na nasze flagowe wydarzenie – cykliczne, autorskie spacer po Osiedl
 To nie jest zwykły spacer turystyczny. Podczas spotkania nie tylko przybliżymy historię fińskich domków z 1945 roku, ale przede wszystkim pokażemy Jazdów naszymi oczami – jako żywe laboratorium demokracji, kultury i ekologii.
 
 Najbliższe oprowadzanie [znajdziesz na liście bieżących wydarzeń](https://www.facebook.com/jazdow/events).
+
+![oprowadzanie - Ewa Ziajkowska](/images/dsc04022-large.jpeg "oprowadzanie - Ewa Ziajkowska")
 
 **Podczas oprowadzań zanurzymy się w historii tej 80-letniej enklawy, w tym:**
 
@@ -34,6 +34,8 @@ Najbliższe oprowadzanie [znajdziesz na liście bieżących wydarzeń](https://w
 ▲ Opowiadamy o aktualnych projektach, inicjatywach, a także o tym jak można uzyskać obywatelstwo Wolnego Jazdowa i co się z tym wiąże;
 
 ▲ Odpowiadamy na nurtujące Was pytania, szczególnie te związane z przyszłością Osiedla i możliwościami współtworzenia z nami tego miejsca;
+
+![zdjęcie Anna Liminowicz](/images/anna-liminowicz.jpg "zdjęcie Anna Liminowicz")
 
 # Czytelnia Klimatyczna
 
