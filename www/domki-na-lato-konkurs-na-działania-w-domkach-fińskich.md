@@ -9,31 +9,11 @@ Partnerstwo Otwarty Jazdów utrzymuje się w głównie z dobrowolnych zbiórek s
 
 Przede wszystkim przyjmujemy darowizny na cele statutowe. Możesz wpłacać na różne sposoby - zawsze, kiedy przyjdzie Ci na to ochota:
 
-## Konto bankowe
-
-**Partnerstwo Otwarty Jazdów**\
-**Związek Stowarzyszeń**
-
-**nr konta mBank:**\
-36 1140 2105 0000 3568 7500 1001\
-**ważne - tytułem:**\
-darowizna na cele statutowe
-
-## Zrzutka.pl
-
-Istnieje możliwość przekazania darowizny przez portal zrzutka.pl:
-
-[zrzutka.pl/66a6y3](https://zrzutka.pl/66a6y3)
-
 ## Patronite.pl
 
 Dołącz do społeczności Patronite i korzystaj z przestrzeni domku fińskiego na stałe! Dołączając jesteś także na bieżąco z wszystkimi wydarzeniami Wolnego Jazdowa.
 
 [patronite.pl/jazdow](https://patronite.pl/jazdow)
-
-## PayPal.com
-
-[paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4](https://www.paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4)
 
 ## 1,5% podatku
 
@@ -41,12 +21,29 @@ Partnerstwo Otwarty Jazdów posiada status Organizacji Pożytku Publicznego. Mo�
 
 **KRS: 0000737179**
 
+## Zrzutka.pl
+
+Istnieje możliwość przekazania darowizny przez portal zrzutka.pl:
+
+[zrzutka.pl/66a6y3](https://zrzutka.pl/66a6y3)
+
+## PayPal.com
+
+[paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4](https://www.paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4)
+
+## Konto bankowe
+
+**nr konta mBank:**\
+36 1140 2105 0000 3568 7500 1001
+
+**ważne - tytułem:**\
+darowizna na cele statutowe
+
 ## Dane adresowe
 
-Więcej informacji pod adresem: **otwarty@jazdow.pl**
-
 **Partnerstwo Otwarty Jazdów**\
-**Związek Stowarzyszeń**\
+**Związek Stowarzyszeń**
+
 ul. Jazdów 10/5\
 00-467 Warszawa
 
@@ -54,6 +51,8 @@ KRS: 0000737179\
 REGON: 380558414\
 NIP: 7010827495
 
+otwarty@jazdow.pl
+
 ## e-Doręczenia
 
-**AE:PL-86024-98343-ERIGG-14**
+AE:PL-86024-98343-ERIGG-14
