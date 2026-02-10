@@ -13,6 +13,8 @@ generic: true
 
 **2﻿023**
 
+[bilans i rachunek](https://drive.google.com/file/d/18VTdOJTJH8VajY31MkmxTG6YMSAxPn4j/view?usp=sharing)\
+[informacje uzupełniające](https://drive.google.com/file/d/1aTzs3YkhoLFmr2G6Gx5SVsoquTsC0aQx/view?usp=sharing)
 
 **2﻿022**
 
