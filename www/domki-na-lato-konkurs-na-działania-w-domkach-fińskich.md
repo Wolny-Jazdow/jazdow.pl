@@ -9,17 +9,17 @@ Partnerstwo Otwarty Jazdów utrzymuje się w głównie z dobrowolnych zbiórek s
 
 Przede wszystkim przyjmujemy darowizny na cele statutowe. Możesz wpłacać na różne sposoby - zawsze, kiedy przyjdzie Ci na to ochota:
 
-## Patronite.pl
-
-Dołącz do społeczności Patronite i korzystaj z przestrzeni domku fińskiego na stałe! Dołączając jesteś także na bieżąco z wszystkimi wydarzeniami Wolnego Jazdowa.
-
-[patronite.pl/jazdow](https://patronite.pl/jazdow)
-
 ## 1,5% podatku
 
 Partnerstwo Otwarty Jazdów posiada status Organizacji Pożytku Publicznego. Możesz przekazać nam 1,5% swojego podatku dochodowego wpisując nasz numer KRS w rozliczeniu rocznym PIT.
 
 **KRS: 0000737179**
+
+## Patronite.pl
+
+Dołącz do społeczności Patronite i korzystaj z przestrzeni domku fińskiego na stałe! Dołączając jesteś także na bieżąco z wszystkimi wydarzeniami Wolnego Jazdowa.
+
+[patronite.pl/jazdow](https://patronite.pl/jazdow)
 
 ## Zrzutka.pl
 
