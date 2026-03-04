@@ -57,11 +57,11 @@ export default {
 main
 	margin-top 0
 	transition margin-top .5s ease
-.video-bg
-	main
-		margin-top calc(100vh - 5.5rem)
-		+above(0, true, null, 'portrait')
-			margin-top 75vh
+// .video-bg
+//	main
+//		margin-top calc(100vh - 5.5rem)
+//		+above(0, true, null, 'portrait')
+//			margin-top 75vh
 .intro
 	margin 6rem auto 0 auto
 	.title
