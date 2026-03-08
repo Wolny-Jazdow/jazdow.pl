@@ -78,6 +78,10 @@
   "links": {
     "pl": [
       {
+        "to": "/statut",
+        "title": "Statut"
+      },
+      {
         "to": "/sprawozdania",
         "title": "Sprawozdania"
       },
