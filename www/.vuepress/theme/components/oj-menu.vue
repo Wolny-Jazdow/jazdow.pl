@@ -34,6 +34,9 @@ export default {
 	methods: {
 		toggleMenu(force){
 			return this.mobileMenu = !this.mobileMenu
+		},
+		closeMenu(){
+			this.mobileMenu = false
 		}
 	},
 	watch: {
@@ -43,7 +46,13 @@ export default {
 			} else {
 				return document.body.classList.remove('menu-on')
 			}
+		},
+		$route(){
+			this.closeMenu()
 		}
+	},
+	beforeDestroy(){
+		document.body.classList.remove('menu-on')
 	}
 }
 </script>
