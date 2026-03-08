@@ -38,7 +38,7 @@ export default {
 
 #oj-history
 	display block
-	border-top 1px solid $oj-violet
+	border-top 1px solid $oj-green-free
 	padding-top 3rem
 .event
 	display flex
@@ -48,7 +48,7 @@ export default {
 	padding-right $gutter
 	border-right .5rem solid $oj-green
 	text-align right
-	color $oj-violet
+	color $oj-green-free
 	line-height 1.2em
 	font-weight 700
 	font-family SC
@@ -70,10 +70,10 @@ export default {
 		z-index 2
 		width 1rem
 		height 1rem
-		border .25rem solid $oj-violet
+		border .25rem solid $oj-green-free
 		border-radius 50%
 		background-color white
-		box-shadow 0 2px 5px rgba($oj-violet, .5)
+		box-shadow 0 2px 5px rgba($oj-green-free, .5)
 .content
 	margin-bottom 3rem
 	position relative

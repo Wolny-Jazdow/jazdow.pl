@@ -78,7 +78,7 @@ export default {
 	.contact
 		display block
 		.contact-title
-			color $oj-violet
+			color $oj-green-free
 			font-size 1rem
 			line-height 1.2em
 			font-weight 700
@@ -87,7 +87,7 @@ export default {
 	.address
 		min-width 200px
 		.address-title
-			color $oj-violet
+			color $oj-green-free
 			font-size 1rem
 			line-height 1.2em
 			font-weight 700
@@ -107,7 +107,7 @@ export default {
 		display inline-block
 		font-size 2rem
 		text-decoration none
-		color $oj-green
+		color $oj-green-free
 
 	// LINKS
 	.links

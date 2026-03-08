@@ -264,7 +264,7 @@
 
 <style scoped lang='stylus'>
 @import '../styles/component'
-$oj-map-dark = $oj-violet
+$oj-map-dark = $oj-green-free
 
 #oj-map
 	display block
@@ -316,7 +316,7 @@ $oj-map-dark = $oj-violet
 		animation labelOut .5s 1 ease
 		visibility hidden
 #house-label-content
-	color $oj-violet
+	color $oj-green-free
 	font-family $P
 	font-weight 700
 	font-size 1.2rem

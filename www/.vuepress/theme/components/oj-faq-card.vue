@@ -33,7 +33,7 @@ export default {
 	color $oj-dark
 .caption
 	padding 1rem
-	background-color $oj-violet
+	background-color $oj-green-free
 	color white
 	font-weight 700
 	overflow hidden

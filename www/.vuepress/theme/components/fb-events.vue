@@ -97,7 +97,7 @@ export default {
 			display: flex
 			justify-content: space-between
 			text-align: center
-			color: $oj-violet
+			color: $oj-green-free
 			font-family: $SC
 			font-weight: 700
 			.cal

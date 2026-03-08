@@ -42,7 +42,7 @@ export default {
 	background url('../assets/ui/sleepey.svg') top center no-repeat
 	background-size 30% auto
 	padding 30% 0 0 0
-	color $oj-violet
+	color $oj-green-free
 .link
 	display block
 	align-self flex-end

@@ -108,7 +108,7 @@ export default {
 
 <style scoped lang='stylus'>
 @import '../styles/component'
-$oj-map-dark = $oj-violet
+$oj-map-dark = $oj-green-free
 #oj-map-legend
 	display: block
 	width: 28rem
@@ -124,10 +124,10 @@ $oj-map-dark = $oj-violet
 	text-transform: uppercase
 	letter-spacing: .15em
 	margin-bottom: .5rem
-	color: $oj-violet
+	color: $oj-green-free
 #legend-board
-	border-top: 1px solid $oj-violet
-	border-bottom: 1px solid $oj-violet
+	border-top: 1px solid $oj-green-free
+	border-bottom: 1px solid $oj-green-free
 	background-color: rgba(white, .8)
 	padding: 1rem 0 0 0
 	+below(600px)
@@ -154,7 +154,7 @@ $oj-map-dark = $oj-violet
 			height: 1.1rem
 .label
 	display: block
-	color: $oj-violet
+	color: $oj-green-free
 	font-family: $SC
 	font-size: 1rem
 	line-height: 1.2em

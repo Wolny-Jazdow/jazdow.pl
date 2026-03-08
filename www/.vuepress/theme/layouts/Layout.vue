@@ -38,7 +38,7 @@ export default {
 	text-align center
 article
 	margin 4rem auto
-	border-top 1px solid $oj-violet
+	border-top 1px solid $oj-green-free
 	padding-top 2rem
 	max-width 800px
 	hyphens auto

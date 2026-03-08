@@ -171,10 +171,10 @@ export default {
 			display: flex
 			font-family: $SC
 			font-size: 1rem
-			color: $oj-violet
+			color: $oj-green-free
 			margin-bottom: 1rem
 			padding: .5rem 0
-			border-bottom: 1px solid $oj-violet
+			border-bottom: 1px solid $oj-green-free
 			.counter
 				margin-right: 1rem
 		#loader

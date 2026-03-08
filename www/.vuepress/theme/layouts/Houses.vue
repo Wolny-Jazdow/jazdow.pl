@@ -93,7 +93,7 @@ header#header
 	p
 		max-width: 75%
 		font-size: 1.2rem
-		color: $oj-violet
+		color: $oj-green-free
 		font-family: $SC
 		line-height: 1.2em
 article
