@@ -6,28 +6,28 @@ tldr: Tutaj znajdziesz sprawozdania merytoryczne i finansowe Partnerstwa Otwarty
   dziedzictwa i rozwoju Osiedla Jazdów.
 generic: true
 ---
-**2﻿024**
+**2024**
 
 [bilans i rachunek](https://drive.google.com/file/d/1tHv3tj2xtkMaxlkkzowQs_IVre146gTN/view?usp=sharing)\
 [informacje uzupełniające](https://drive.google.com/file/d/10BgpUrv8fzrKZrLq1vvnOXO8JTMTBg2J/view?usp=sharing)
 
-**2﻿023**
+**2023**
 
 [bilans i rachunek](https://drive.google.com/file/d/18VTdOJTJH8VajY31MkmxTG6YMSAxPn4j/view?usp=sharing)\
 [informacje uzupełniające](https://drive.google.com/file/d/1aTzs3YkhoLFmr2G6Gx5SVsoquTsC0aQx/view?usp=sharing)
 
-**2﻿022**
+**2022**
 
 [bilans i rachunek](https://drive.google.com/file/d/14p06v6-mPol9h76iFUvGMzhhK8GSXdz9/view?usp=drive_link)\
 [informacje uzupełniające](https://drive.google.com/file/d/1lvq4TJoae0mAwmG4uw7ithPoUaKiiWYW/view?usp=drive_link)
 
-**2﻿021**
+**2021**
 
 [sprawozdanie merytoryczne](https://drive.google.com/file/d/16Jztfj9ORQSVKHoQvNUXgpT4ugv3HQQJ/view?usp=sharing)\
 [bilans i rachunek](https://drive.google.com/file/d/1_44fgXnW_UuXngvs3QZ3ywWQ46pFYp6U/view?usp=drive_link)\
 [informacje uzupełniające](https://drive.google.com/file/d/1fljJGkvkOgnGqIJntPxImU-QpKVIDmhI/view?usp=sharing)
 
-**2﻿020**
+**2020**
 
 [bilans i rachunek](https://drive.google.com/file/d/1LatlrKMtJwjmjNxmwoK6aGwWX0QMfsG5/view?usp=drive_link)\
 [informacje uzupełniające](https://drive.google.com/file/d/15EC-6DDUfEuaVODY-39GZ23RzIxKFGKd/view?usp=sharing)
