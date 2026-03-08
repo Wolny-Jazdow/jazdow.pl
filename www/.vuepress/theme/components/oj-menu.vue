@@ -22,7 +22,7 @@ export default {
 
 	computed: {
 		lang(){ return this.$lang.substring(0, 2) },
-		logo(){ return require('../assets/ui/oj-logo.svg') },
+		logo(){ return require('../assets/ui/logo-wj.png') },
 		langSwitch(){
 			return {
 				to: this.$lang === 'pl-PL' ? '/en/' : '/',
