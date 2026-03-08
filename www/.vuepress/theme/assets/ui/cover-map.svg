@@ -6,7 +6,7 @@
       }
 
       .cls-1, .cls-2 {
-        stroke: #5200cc;
+        stroke: #6ba568;
         stroke-linejoin: bevel;
         stroke-width: 0.5px;
       }
@@ -17,7 +17,7 @@
 
       .cls-3, .cls-4 {
         isolation: isolate;
-        fill: #5200cc;
+        fill: #6ba568;
         font-family: SC, Source Code Pro, Monaco, sans-serif;
         font-weight: 300;
       }
