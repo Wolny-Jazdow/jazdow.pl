@@ -1,22 +1,25 @@
 ---
 permalink: opp
-title: 1,5% OPP
-tldr: Tutaj dowiesz się w jaki sposób możesz pomóc rozwijać niepodległe osiedle
-  domków fińskich - miejsce spokoju i twórczej wspólnoty!
+title: 🌱 Zasadź swoje 1.5% na Wolnym Jazdowie
+tldr: Wolny Jazdów jest jak ogród. Wymaga obecności, cierpliwości, ale opieka nad nim daje dużo satysfakcji, w postaci plonów relacji i otulenia, oddechu i spokoju, zabawy i zadumy. Od lat traktujemy Jazdów jako przestrzeń wspólną, w której każdy może zrobić coś dla dobra siebie i innych.
 generic: true
 ---
-Partnerstwo Otwarty Jazdów utrzymuje się w głównie z dobrowolnych zbiórek swoich członków, gości i fanów. Jeśli podoba Ci się to co robimy i chcesz pomóc nam dalej chronić i rozwijać Osiedle Jazdów, to możesz to zrobić na kilka sposobów.
+![OPP baner górny](/images/opp-baner.png "OPP baner górny")
 
-## Przekaż 1,5% podatku
+Wolny Jazdów jest jak ogród. Wymaga obecności, cierpliwości, ale opieka nad nim daje dużo satysfakcji, w postaci plonów relacji i otulenia, oddechu i spokoju, zabawy i zadumy. Od lat traktujemy Jazdów jako przestrzeń wspólną, w której każdy może zrobić coś dla dobra siebie i innych.
 
-Partnerstwo Otwarty Jazdów posiada status Organizacji Pożytku Publicznego. Możesz przekazać nam 1,5% swojego podatku dochodowego wpisując nasz numer KRS w rozliczeniu rocznym PIT.
+Teraz możesz zasiać ziarno, które wyda plony, które będziecie mogli zobaczyć i doświadczać w przyszłości ponieważ od roku 2025 Wolny Jazdów ma status Organizacji Pożytku Publicznego. Twoje 1,5% może wesprzeć i wzmocnić naszą organizację w utrzymaniu otwartej, wspólnej i niekomercyjnej przestrzeni, w której można zwolnić, spotkać się i współtworzyć miasto inaczej. 
 
-**KRS: 0000737179**
+Jeśli rozliczasz PIT i decydujesz, gdzie trafi Twoje 1,5% podatku, możesz zasadzić je właśnie tutaj! 💚
+
+Współtwórz z nami Wolny Jazdów - niepodległe osiedle domków fińskich, zieloną oazę spokoju  i twórczej wolności rozwijane od 2013 roku przez organizacje i społeczność tego miejsca.
 
 ## Dane formalne
 
 **Partnerstwo Otwarty Jazdów**\
 **Związek Stowarzyszeń**
+
+**KRS: 0000737179**
 
 ul. Jazdów 10/5\
 00-467 Warszawa
