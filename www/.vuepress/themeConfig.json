@@ -24,10 +24,6 @@
       {
         "href": "/pytania/",
         "title": "pytania"
-      },
-      {
-        "href": "/raporty/",
-        "title": "raporty"
       }
     ],
     "en": [
@@ -55,20 +51,24 @@
   },
   "social": [
     {
-      "href": "http://youtube.com/osiedlejazdow/",
-      "type": "youtube"
+      "href": "https://facebook.com/jazdow/",
+      "type": "facebook"
     },
     {
-      "href": "http://instagram.com/jazdow/",
+      "href": "https://instagram.com/wolny.jazdow/",
       "type": "instagram"
     },
     {
-      "href": "http://facebook.com/jazdow/",
-      "type": "facebook"
+      "href": "https://youtube.com/osiedlejazdow/",
+      "type": "youtube"
     }
   ],
   "links": {
     "pl": [
+      {
+        "to": "/sprawozdania",
+        "title": "Sprawozdania"
+      },
       {
         "to": "/polityka-prywatnosci",
         "title": "Polityka Prywatności"
@@ -83,12 +83,22 @@
   },
   "contact": {
     "pl": {
-      "title": "Kontakt",
-      "details": "Partnerstwo Wolny Jazdów [otwarty@jazdow.pl](mailto:otwarty@jazdow.pl) Strona powstała dzięki wsparciu European Cultural Foundation"
+      "title": "Wolny Jazdów",
+      "details": "[jazdow@jazdow.pl](mailto:jazdow@jazdow.pl)\n\ne-Doręczenia\nAE:PL-86024-98343-ERIGG-14"
     },
     "en": {
       "title": "Contact",
-      "details": "Partnerstwo Wolny Jazdów [otwarty@jazdow.pl](mailto:otwarty@jazdow.pl) This website was created thanks to support from European Cultural Foundation"
+      "details": "[jazdow@jazdow.pl](mailto:jazdow@jazdow.pl)"
+    }
+  },
+  "address": {
+    "pl": {
+      "title": "Partnerstwo Otwarty Jazdów",
+      "details": "ul. Jazdów 10/5\n00-467 Warszawa\n\nKRS: 0000737179\nREGON: 380558414\nNIP: 7010827495"
+    },
+    "en": {
+      "title": "Partnerstwo Otwarty Jazdów",
+      "details": "ul. Jazdów 10/5\n00-467 Warszawa\n\nKRS: 0000737179\nREGON: 380558414\nNIP: 7010827495"
     }
   }
 }
