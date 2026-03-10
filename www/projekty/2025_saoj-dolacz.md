@@ -1,5 +1,5 @@
 ---
-permalink: archiwum
+permalink: archiwum-dolacz
 title: Społeczne Archiwum Osiedla Jazdów | Dołącz!
 tldr: Dołącz w podróż przez historię Jazdowa! Zapraszamy Was do spotkań i
   wspólnych poszukiwań w zakamarkach pamięci, szuflad i albumów.
