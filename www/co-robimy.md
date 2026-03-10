@@ -4,20 +4,20 @@ title: Co robimy?
 tldr: Co robimy? Czym się zajmujemy?
 generic: true
 ---
-1. [Oprowadzania po Osiedlu Jazdów](#oprowadzania-po-osiedlu-jazdow)
-2. [Czytelnia Klimatyczna](#czytelnia-klimatyczna)
-3. [Kulturalne Centrum Samopomocy](https://www.kcs.info.pl/)
-4. [Społeczne Archiwum Osiedla Jazdów](/archiwum)
-5. [Model współzarządzania](/wspolzarzadzanie)
-6. [Partnerstwo](/partnerstwo)
+### 1. [Oprowadzania po Osiedlu Jazdów](#oprowadzania-po-osiedlu-jazdow)
+### 2. [Czytelnia Klimatyczna](#czytelnia-klimatyczna)
+### 3. [Kulturalne Centrum Samopomocy](https://www.kcs.info.pl/)
+### 4. [Społeczne Archiwum Osiedla Jazdów](/archiwum)
+### 5. [Model współzarządzania](/wspolzarzadzanie)
+### 6. [Partnerstwo](/partnerstwo)
 
-# Oprowadzania po Osiedlu Jazdów
+## Oprowadzania po Osiedlu Jazdów
 
 Zapraszamy na nasze flagowe wydarzenie – cykliczne, autorskie spacer po Osiedlu Jazdów. Jako organizacja od lat związana z tym miejscem, otwieramy przed Wami bramę do Wolnego Jazdowa - niepodległej koloni domków fińskich, miejsca wolność i twórczej wspólnoty ochronione i rozwijane od 2011 roku przez organizacje pozarządowe i społeczność tego miejsca.
 
 To nie jest zwykły spacer turystyczny. Podczas spotkania nie tylko przybliżymy historię fińskich domków z 1945 roku, ale przede wszystkim pokażemy Jazdów naszymi oczami – jako żywe laboratorium demokracji, kultury i ekologii.
 
-Najbliższe oprowadzanie [znajdziesz na liście bieżących wydarzeń](https://www.facebook.com/jazdow/events).
+**Najbliższe oprowadzanie [znajdziesz na liście bieżących wydarzeń](https://www.facebook.com/jazdow/events).**
 
 ![oprowadzanie - Ewa Ziajkowska](/images/dsc04022-large.jpeg "oprowadzanie - Ewa Ziajkowska")
 
@@ -37,7 +37,7 @@ Najbliższe oprowadzanie [znajdziesz na liście bieżących wydarzeń](https://w
 
 ![zdjęcie Anna Liminowicz](/images/anna-liminowicz.jpg "zdjęcie Anna Liminowicz")
 
-# Czytelnia Klimatyczna
+## Czytelnia Klimatyczna
 
 W każdy poniedziałek otwieramy dla Was Czytelnie Klimatyczną - przytulną przestrzeń w domku fińskim Sołectwo przy ul. Jazdów 10/5 oferująca możliwość wypożyczenia literatury i eksplorowania jej,  a także pracy w skupieniu oraz odpoczynku w unikatowej przestrzeni. Jest to miejsce otwarte dla wszystkich, którzy cenią kameralną atmosferę i chcą spędzić czas w otoczeniu zieleni Jazdowa, korzystając z gościnności i ciepła drewnianego wnętrza.
 
@@ -59,4 +59,4 @@ Czytelnia Klimatyczna jest inicjatywą niezależną i nie posiada stałego finan
 
 Opiekunki Czytelni: Hania, Karola, Maga, Wiki lub Lukrecja.
 
-Najbliższe terminy otwarcia Czytelni [znajdziesz na liście bieżących wydarzeń](https://www.facebook.com/jazdow/events).
+**Najbliższe terminy otwarcia Czytelni [znajdziesz na liście bieżących wydarzeń](https://www.facebook.com/jazdow/events).**
