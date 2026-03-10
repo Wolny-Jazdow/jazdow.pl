@@ -34,7 +34,7 @@ history:
 
         Władze m.st. Warszawy przychyliły się do złożonego wniosku i przystąpiły do realizacji konsultacji społecznych, których celem było wypracowanie społecznej koncepcji zagospodarowania terenu Osiedla Jazdów. Warsztaty konsultacyjne prowadziło Stowarzyszenie Kulturotwórcze Miastodwa.
 
-        [Link do raportu](http://konsultacje.um.warszawa.pl/sites/konsultacje.um.warszawa.pl/files/raport_konsultacje_osiedle_jazdow.pdf) (obowiązujące są wyniki „grupy wspólnej”)
+        [Link do raportu](/wiedza/2014_raport_konsultacje_osiedle_jazdow.pdf) (obowiązujące są wyniki „grupy wspólnej”)
 - 
     date: maj-listopad 2013
     text: Z inicjatywy mieszkańców Jazdowa i Warszawy zorganizowany zostaje festiwal społeczno-kulturalny o nazwie „Otwarty Jazdów”.
