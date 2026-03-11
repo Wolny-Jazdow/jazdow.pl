@@ -4,6 +4,7 @@ title: Co robimy?
 tldr: Co robimy? Czym się zajmujemy?
 generic: true
 ---
+## [Lista wydarzeń na Facebooku](https://facebook.com/jazdow/events/)
 ### 1. [Oprowadzania po Osiedlu Jazdów](#oprowadzania-po-osiedlu-jazdow)
 ### 2. [Czytelnia Klimatyczna](#czytelnia-klimatyczna)
 ### 3. [Kulturalne Centrum Samopomocy](https://www.kcs.info.pl/)
