@@ -4,6 +4,9 @@ title: Obywatelstwo
 tldr: Witaj, bądź sobą, rozgość się i pamiętaj o panujących tutaj zasadach
 generic: true
 ---
+
+**[APLIKUJ O OBYWATELSTWO](https://wolnyjazdow.pl/form.html)**
+
 1. Tu razem dbamy o naturę, sprzątamy wspólną przestrzeń i kompostujemy,
 2. Tu dzielimy się spokojem i unikamy hałasu, nie używamy głośników w ogrodach, a w godzinach 22:00–8:00 wyciszamy się wraz z naturą i sąsiedztwem,
 3. Tu dążymy do wolności od uzależnień i ucieczek – rozmawiaj, zamiast uciekać od rzeczywistości,
@@ -17,6 +20,9 @@ generic: true
 
 Jeśli poczujesz się tutaj dobrze, zapraszamy Cię do dołączenia do naszej społeczności – zawnioskuj o Obywatelstwo!
 
-Błogiego czasu w Wolnym Jazdowie! #tuwolno #zawszebędziejazdów
+Błogiego czasu w Wolnym Jazdowie!
+
+#tuwolno
+#zawszebędziejazdów
 
 ## [APLIKUJ O OBYWATELSTWO](https://wolnyjazdow.pl/form.html)
