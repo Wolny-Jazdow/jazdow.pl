@@ -43,6 +43,8 @@ history:
       Od tego momentu **regularnie prosiliśmy o spotkania i informację o trybie dalszych prac**. Przez wiele miesięcy nie otrzymywaliśmy odpowiedzi ani propozycji rozmów.
     title: Pierwsze organizacje na Jazdowie, którym kończyła się umowa najmu, otrzymały pismo informujące o planowanej podwyżce czynszu.
 ---
+![flaga czerwona](/images/flag-red.png "flaga czerwona")
+
 Nie prosimy o przywileje. Prosimy o adekwatność.
 Jesteśmy gotowi do rozmowy.
 
