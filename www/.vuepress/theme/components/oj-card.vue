@@ -58,4 +58,7 @@ export default {
 	&:hover
 		.card-content
 			top 0
+	+below(600px)
+		.card-content
+			top 0
 </style>
